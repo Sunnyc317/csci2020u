@@ -1,0 +1,7 @@
+*.class
+
+.gradle
+/build/
+
+proguard6.0.3.tar.gz
+/proguard6.0.3/
